@@ -46,9 +46,10 @@ lyftr-ai-chatbot/
 
 ## Live URLs
 
-- Frontend: To be deployed
-- Backend: To be deployed
-- API Documentation: To be deployed at `/docs`
+- **Frontend Application:** https://lyftr-ai-frontend-jopy.onrender.com
+- **Backend API:** https://lyftr-ai-chatbot-1-ezfa.onrender.com
+- **API Documentation (Swagger):** https://lyftr-ai-chatbot-1-ezfa.onrender.com/docs
+- **Health Check:** https://lyftr-ai-chatbot-1-ezfa.onrender.com/health
 
 ## Run Locally: Without Docker
 
