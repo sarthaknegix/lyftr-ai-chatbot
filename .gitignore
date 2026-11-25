@@ -1,0 +1,17 @@
+# Environment secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Environment files
+.env.local
